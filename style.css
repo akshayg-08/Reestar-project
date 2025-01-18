@@ -1,0 +1,63 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.heading{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+}
+.sub_heading,li{
+  color: grey;
+  display: inline-block;
+}
+li:hover{
+  color: white;
+  cursor: pointer;
+}
+img{
+  width: 200px;
+  height: 300px;
+  border: solid;
+  border-color: black;
+  border-width: 2px;
+}
+.dish{
+  border: solid black 2px;
+  width: 202px;
+  border-width: 2px;
+  text-align: center;
+  display: inline-block;
+}
+.order{
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+.order:hover{
+  cursor: pointer;
+}
+.dishcards{
+  text-align: center;
+}
+.contacts{
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 150px;
+  display: inline-block;
+  margin-top: 10px;
+}
+.contact_align{
+  text-align: center;
+  padding-left: 43%;
+  padding-top: 12px;
+}
+.hh{
+  background-color: rgb(252, 252, 17);
+  color: black;
+
+}
